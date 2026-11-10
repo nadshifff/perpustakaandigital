@@ -1,5 +1,8 @@
 # Digital Library
 Selamat Datang di Perpustakaan Digital
+Nama: Aqilah Nadya Shifwah Haris
+NIM: 13040124120039
+Kelas: A
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
 1. [Pengelolaan Arsip Elektronik Berbasis Teknologi](ebook/Artikel Manajemen Arsip Elektronik.pdf) – Machsun Rifauddin (2016) 
