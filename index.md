@@ -13,7 +13,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 6. [Laut Bercerita](ebook/Laut Bercerita.pdf) – Leila S. Chudori(2017)
 7. [Matahari](ebook/Matahari.pdf) – Tere Liye(2016)
 8. [Namaku Alam](ebook/Namaku Alam.pdf) – Leila S. Chudori(2023)
-9. [Madre](ebook/PMadre.pdf) – Dee Lestari(2013)
+9. [Teka Teki Gambar Aneh](ebook/Teka Teki Gambar Aneh.pdf) – Dee Lestari(2013)
 10. [BUmi](ebook/Bumi.pdf) – Tere Liye(2014)
 11. [Sisi Tergelap Surga](ebook/Sisi Tergelap Surga.pdf) – Brian Khrisna(2024)
 12. [Rangkuman_UGC](ebook/Rangkuman_UGC.pdf) - Aqilah Nadya(2026)
