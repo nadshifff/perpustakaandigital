@@ -16,4 +16,4 @@ Berikut ini adalah Koleksi yang dimiliki:
 9. [Pasta Kacang Merah (An Sweet Been Paste))](ebook/Pasta Kacang Merah (An Sweet Been Paste)).pdf) – Dorian Sukegawa(2022)
 10. [Seribu Wajah Ayah](ebook/Seribu Wayah Ayah.pdf) – Nurun Ala(2020)
 11. [Sisi Tergelap Surga](ebook/Sisi Tergelap Surga.pdf) – Brian Khrisna(2024)
-12. 
+12. [Rangkuman_UGC](ebook/Rangkuman_UGC.pdf) - Aqilah Nadya(2026)
