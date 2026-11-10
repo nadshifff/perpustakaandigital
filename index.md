@@ -5,7 +5,7 @@ NIM: 13040124120039
 Kelas: A
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
-1. [Pengelolaan Arsip Elektronik Berbasis Teknologi](ebook/Artikel Manajemen Arsip Elektronik.pdf) – Machsun Rifauddin(2016) 
+1. [Pengelolaan Arsip Elektronik Berbasis Teknologi](ebook/Artikel%20Manajemen%20Arsip%20Elektronik.pdf) – Machsun Rifauddin(2016) 
 2. [0 MDPL](ebook/Artikel 0 MDPL.pdf) – Nurwina Sari(2025)
 3. [A Litlle Princess - Putri Raja Cilik](ebook/Artikel A Little Princess - Putri Raja Cilik.pdf) – Frances Hodgson Burnett(1985)
 4. [Dua Belas Pasang Mata (Twenty-Four Eyes)](ebook/Artikel Dua Belas Pasang Mata (Twenty-Four Eyes).pdf) – Sakae Tsuboi(2021)
